@@ -1,0 +1,21 @@
+.dropdown{
+	position: relative;
+	display: inline-block;
+
+	.dropbtn{
+		display: inline-block;
+		background-color: #337AFF;
+		font-size: 18px;
+		padding: 13px;
+		border: none;
+		color: white;
+		cursor: pointer;
+	}
+
+	.drop-content{
+		
+		background-color: #FFF933;
+		position: absolute;
+		min-width: 160px;
+	}
+}

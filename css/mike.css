@@ -1,0 +1,38 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.mike-nav{
+	width: 100%;
+	background-color: #333;
+	margin: 0px;
+	display: block;
+	position: relative;
+	float: left;
+	border: 1px solid #333;
+}
+
+.mike-nav >ul{
+	padding: 0px;
+	margin: 0px;
+}
+
+.mike-nav >ul >li{
+	display: inline-block;
+	color: #FFFFFF;
+}
+
+.mike-nav >ul >li >a{
+	display: block;
+	color: #FFFFFF;
+	padding: 7px 15px;
+	text-decoration: none;
+	transition: background-color .9ss;
+	--webkit-transition: background-color .5s;	
+}
+.mike-nav >ul >li >a:hover{
+	text-decoration: none;
+	color: #333;
+	background-color: #FFFFFF;
+}

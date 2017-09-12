@@ -1,0 +1,47 @@
+.gh{
+	color: blue;
+	font-size: 14px;
+}
+
+#element1{
+	color: red;
+}
+
+li{
+	color: #FFFFFF;
+	display: inline;
+	background-color: #655F0C 
+	margin: 0px 1px 0px 1px;
+	padding: 0px 3px 0px 2px;
+	background-size: auto;
+	border-right: solid black 2px;
+
+}
+
+li a:hover{
+	background-color: #9D9611
+}
+
+li a:active{
+	color: black;
+}
+
+li:last-child{
+	border-right: none;
+}
+
+
+li a{
+	text-decoration: none;
+	color: White;
+
+
+}
+ul{
+	margin: 0 0 0 0;
+	padding:0 0 0 0;
+	width: 100%;
+background-color: #706A0C;
+font-size: 	19px
+
+}

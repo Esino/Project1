@@ -1,0 +1,8 @@
++ Plus
+- Minus
+* Multiply
+/ Divide
+% Remainder
+= Assignment
+== Equality
+=== Second Level Equality

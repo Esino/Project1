@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  padding: 0px; }
+  body ul {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    width: 100%;
+    background-color: #706A0C;
+    font-size: 14px; }
+    body ul > li {
+      color: #FFFFFF;
+      display: inline;
+      background-color: #655F0C;
+      margin: 0px 1px 0px 1px;
+      padding: 0px 3px 0px 2px;
+      background-size: auto;
+      border-right: 2px solid black; }
+      body ul > li:last-child {
+        border-right: none; }
+      body ul > li > a {
+        text-decoration: none;
+        color: white; }
+        body ul > li > a:hover {
+          background-color: #9D9611; }
+        body ul > li > a:active {
+          color: black; }
